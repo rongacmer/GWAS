@@ -1,0 +1,20 @@
+PLINK v1.90b6.10 64-bit (17 Jun 2019)
+Options in effect:
+  --bfile /media/rong/My Passport/GWAS/Origin/Alldata_maf_qc1
+  --extract SNP.txt
+  --keep test.txt
+  --out final_test
+  --recode A
+
+Hostname: rong-To-be-filled-by-O-E-M
+Working directory: /media/rong/My Passport/GWAS/Script
+Start time: Wed Sep 25 15:04:18 2019
+
+Random number seed: 1569395058
+7869 MB RAM detected; reserving 3934 MB for main workspace.
+Allocated 1659 MB successfully, after larger attempt(s) failed.
+562563 variants loaded from .bim file.
+719 people (425 males, 294 females) loaded from .fam.
+Error: Failed to open SNP.txt.
+
+End time: Wed Sep 25 15:04:18 2019
